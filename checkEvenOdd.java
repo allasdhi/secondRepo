@@ -4,8 +4,10 @@ class CheckEvenOdd
 {
   public static void main(String args[])
   {
-    int num;
-    System.out.println("Enter an Integer number:");
+	  
+	// i've commented the below two lines to understand how git commit functions via eclipse and how the changes can be committed via eclipse  
+    // int num;
+    // System.out.println("Enter an Integer number:");
 
     //The input provided by user is stored in num
     Scanner input = new Scanner(System.in);
